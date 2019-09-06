@@ -1,7 +1,7 @@
 name: "Xinyao Wu"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Xinyao Wu"
   right:
     - text: "Xinyao Wu"
       href: info.html
@@ -15,7 +15,7 @@ navbar:
       menu:
         - text: "Life in New York"
           href: nyc.html
-        - text: "Travel Someplace"
+        - text: "Wonderful Travel"
           href: travel.html 
         - text: "Wander at Museum"
           href: museum.html
@@ -36,7 +36,9 @@ navbar:
         - text: "Flexdashboard"
           href: Flexdashboard.html
         - text: "Tableau"
-          href: table.html
+          href: tableplot.html
+    - icon: fas fa-address-card
+      href: contact.html
     - icon: fa-envelope fa-lg
       href: mailto:wuxinyao1996@gmail.com
     - icon: fa-github fa-lg
