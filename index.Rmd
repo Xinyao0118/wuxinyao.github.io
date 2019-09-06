@@ -1,0 +1,20 @@
+---
+title: "Xinyao Wu"
+output: html_document
+---
+
+
+####This is [XinyaoWu`s](info.html) personal website.The website includes:
+
+ 
+ *Introcudtion [Introduction](about.html)
+  
+ *Resume [My Resume](Resume.html)
+ 
+ *A flexdashboard [Flexdashboard](Flexdashboard.html)
+ 
+ *My Github [My Github](http://github.com/xinyao0118/)
+ 
+ *undergrate project [undergrate project](project.html)
+ 
+ 

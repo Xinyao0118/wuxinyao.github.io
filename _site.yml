@@ -1,0 +1,32 @@
+name: "Xinyao Wu"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Xinyao Wu"
+      href: info.html
+    - text: "Interests"
+      menu:
+        - text: "Life with Violin"
+        - href: info.html
+        - text: "Painting"
+        - href: about.html        
+    - text: "Gallery"
+      menu:
+        - text: "Life in New York"
+        - href: nyc.html
+        - text: "Travel"
+        - href: about.html 
+        - text: "Museum"
+        - href: about.html
+    - text: "Flexdashboard"
+      href: Flexdashboard.html
+    - text: "About DS"
+      href: project.html
+    - icon: fa-envelope fa-lg
+      href: mailto:wuxinyao1996@gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/xinyao0118/
+output:
+  html_document:
+    theme: cosmo
