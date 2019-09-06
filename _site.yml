@@ -8,21 +8,35 @@ navbar:
     - text: "Interests"
       menu:
         - text: "Life with Violin"
-        - href: info.html
+          href: violin.html
         - text: "Painting"
-        - href: about.html        
+          href: paint.html        
     - text: "Gallery"
       menu:
         - text: "Life in New York"
-        - href: nyc.html
-        - text: "Travel"
-        - href: about.html 
-        - text: "Museum"
-        - href: about.html
-    - text: "Flexdashboard"
-      href: Flexdashboard.html
-    - text: "About DS"
-      href: project.html
+          href: nyc.html
+        - text: "Travel Someplace"
+          href: travel.html 
+        - text: "Wander at Museum"
+          href: museum.html
+    - text: "Interesting Projects"
+      menu:
+        - text: "Asthma"
+          href: asthma.html
+        - text: "BM"
+          href: BM.html 
+        - text: "R+Python+Taleau"
+          href: table.html  
+        - text: "SQL"
+          href: sql.html   
+        - text: "Machine Learning"
+          href: ml.html  
+    - text: "Visualization"   
+      menu:
+        - text: "Flexdashboard"
+          href: Flexdashboard.html
+        - text: "Tableau"
+          href: table.html
     - icon: fa-envelope fa-lg
       href: mailto:wuxinyao1996@gmail.com
     - icon: fa-github fa-lg
