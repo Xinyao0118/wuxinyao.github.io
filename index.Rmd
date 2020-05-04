@@ -3,18 +3,20 @@ title: "Xinyao Wu"
 output: html_document
 ---
 
+I am a current MS student at Columbia University and I will get my master degree in May,2020. I have a broad interest in Data science field. Some particular interests include machine learning, data mining, data manipulation, data visualization, A/B testing and time series analysis.
 
-####This is [XinyaoWu`s](info.html) personal website.The website includes:
+My master thesis is on the "__Causal Inference for Multiple Continuous Exposures: Evaluation of Bias Due to Lack of Overlap__". In 2017--2018, I was a research assistant at Peking University and my research was mainly about detecting hub gene clusters in R. Afterwards, I joined the Biostatistics department at Columbia University as a Master in Science student. In 2019 autumn, I worked with Lions Assurance Financial as a data analyst intern.
 
+If you are hiring staffs and are interested about my work/project experience, please contact me ASAP. I am always looking for job opportunities of data analyst or data scientiest related.
  
- *Introcudtion [Introduction](about.html)
-  
- *Resume [My Resume](Resume.html)
+
+##[My portfilios](portfilio.html)
+ * Titanic
+ * Mysql
+ * Animal disease
+ * NYC Asthma
  
- *A flexdashboard [Flexdashboard](Flexdashboard.html)
- 
- *My Github [My Github](http://github.com/xinyao0118/)
- 
- *undergrate project [undergrate project](project.html)
- 
+##[My researches](research.html)
+ * Causal Inference for Multiple Continuous Exposures: Evaluation of Bias Due to Lack of Overlap
+ * Gene expression
  

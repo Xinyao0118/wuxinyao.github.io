@@ -1,44 +1,29 @@
-name: "Xinyao Wu"
+uuname: "Xinyao Wu"
 output_dir: "."
 navbar:
   title: "Xinyao Wu"
   right:
-    - text: "Xinyao Wu"
-      href: info.html
+    - text: "Portfolio"
+      href: portfolio.html
+    - text: "Research"
+      href: research.html
+    - text: "Articles"
+      href: article.html 
     - text: "Interests"
       menu:
-        - text: "Life with Violin"
+        - text: "Violin"
           href: violin.html
         - text: "Painting"
-          href: paint.html        
-    - text: "Gallery"
-      menu:
-        - text: "Life in New York"
-          href: nyc.html
-        - text: "Wonderful Travel"
-          href: travel.html 
-        - text: "Wander at Museum"
-          href: museum.html
-    - text: "Interesting Projects"
-      menu:
-        - text: "Asthma"
-          href: asthma.html
-        - text: "BM"
-          href: BM.html 
-        - text: "R+Python+Taleau"
-          href: table.html  
-        - text: "SQL"
-          href: sql.html   
-        - text: "Machine Learning"
-          href: ml.html  
+          href: paint.html      
+    - text: "My life stories"
+      href: story.html 
     - text: "Visualization"   
       menu:
         - text: "Flexdashboard"
           href: Flexdashboard.html
         - text: "Tableau"
           href: tableplot.html
-    - icon: fas fa-address-card
-      href: contact.html
+
     - icon: fa-envelope fa-lg
       href: mailto:wuxinyao1996@gmail.com
     - icon: fa-github fa-lg
